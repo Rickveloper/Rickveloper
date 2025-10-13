@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Docker · Flask · Three.js · Tailwind · ROCm · Cybersecurity fundamentals**
 
-- 👯 I’m looking to collaborate on [Submarine Sim Lab](github.com/Rickveloper/submarine-sim-lab)
-
-- 🤝 I’m looking for help with [AutoHustler AI (autonomous ebook generator)](github.com/Rickveloper/auto-hustler-ai)
+- 👯 I’m looking to collaborate on [Hacktoberfest-project-finder](https://github.com/Rickveloper/hacktoberfest-project-finder)
 
 - 👨‍💻 All of my projects are available at [github.com/Rickveloper](github.com/Rickveloper)
 
