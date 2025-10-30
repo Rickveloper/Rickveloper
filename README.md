@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rickveloper&label=Profile%20views&color=0e75b6&style=flat" alt="rickveloper" /> </p>
 
-- 🔭 I’m currently working on **pi-marauder-ui**
+- 🔭 I’m currently working on **sky-tracker**
 
 - 🌱 I’m currently learning **Docker · Flask · Three.js · Tailwind · ROCm · Cybersecurity fundamentals**
 
-- 👯 I’m looking to collaborate on [Hacktoberfest-project-finder](https://github.com/Rickveloper/hacktoberfest-project-finder)
+- 👯 I’m looking to collaborate on [Hacktoberfest-project-finder](https://github.com/Rickveloper/sky-tracker.git)
 
 - 👨‍💻 All of my projects are available at [github.com/Rickveloper](github.com/Rickveloper)
 
